@@ -1,10 +1,10 @@
 import BaseLayout from "@/components/BaseLayout";
 import Sidebar from "@/components/Sidebar";
 
-export default function Home() {
+export default function About() {
   return (
     <BaseLayout>
-      <div>Home Page</div>
+      <div>About Page</div>
     </BaseLayout>
   )
 }
